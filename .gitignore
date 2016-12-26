@@ -1,0 +1,8 @@
+# Mac
+.DS_Store
+
+# Python
+*.pyc
+
+# Custom
+trace/
